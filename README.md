@@ -1,7 +1,7 @@
 # Hackintosh EFI for MSI GF65 Thin (10SDR)
 ![Screenshot 2024-09-29 at 8 34 06 AM](https://github.com/user-attachments/assets/e76956f8-6196-4475-8bcd-1886f545be6f)
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/OC-1.0.1-blue">
+  <img src="https://img.shields.io/badge/OC-1.0.2-blue">
   <img src="https://img.shields.io/badge/macOS-Ventura_13.7-orange">
 </div>
 
